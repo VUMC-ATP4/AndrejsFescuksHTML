@@ -1,0 +1,100 @@
+.maintext {
+    text-align: justify;
+ } 
+.zalsteksts {
+    text-align: justify;
+}
+ #unikalsID009{
+     color: rgb(16, 16, 24);
+     font-size: large;
+     font-family: "Calibri", sans-serif;
+ }
+ .ramitisleft {
+                background-color: rgb(51, 95, 117);
+                padding: 20px;
+         } 
+         .ramitisbackgroundtopleft {
+                    background-color: rgb(75, 115, 134);
+                    padding: 15px;
+             } 
+             .ramitisbackgroundtopright {
+                
+                        background-color: rgb(255, 255, 255);
+                        padding: 15px;
+                 } 
+         .ramitisright {
+           
+                    background-color: rgb(255, 255, 255);
+            height: 100%;
+            padding: 20px;
+             } 
+ .ramitistopleft {
+    background-color: rgb(64, 220, 237);
+  
+    text-align: left;
+    padding: 20px;
+    } 
+    .ramitistop1 {
+        background-color: rgb(153, 186, 202);
+        } 
+.ramitistopright {
+    background-color: rgb(64, 220, 237);
+    padding: 20px;
+    text-align: right;
+    } 
+    .ramitistop4 {
+        background-color: rgb(255, 255, 255);
+        } 
+ #topramitis{
+    width: 750px;
+    display: grid;
+    grid-template-columns:10% 45% 35% 10%;
+    
+}
+#topramitisbackground{
+    width: 750px;
+    height: 60px;
+    display: grid;
+    grid-template-columns:40% 60%;
+    
+}
+ #specialramitis{
+    width: 750px;
+    height: 100%;
+    display: grid;
+    grid-template-columns:40% 60%;
+   
+   
+}
+
+ul li {
+    font-family: "Calibri", sans-serif;
+    color: azure;
+}
+ol li {
+    font-family: "Calibri", sans-serif;
+    color: rgb(47, 85, 104);
+    font-size:large;
+}
+
+ol p {
+    font-style: italic;
+       
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    padding: 40px;
+    
+    
+}
+h4 {
+    color: rgb(64, 220, 237);
+}
+h2 {
+    color: rgb(255, 255, 255);
+}
+h5 {
+    color: rgb(17, 23, 26);
+    font-size:large;
+}
